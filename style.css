@@ -5,7 +5,8 @@ body {
 .title,
 .description,
 .ingredients,
-.steps {
+.steps,
+.links {
     width: 500px;
     margin: auto;
     margin-bottom: 10px;
